@@ -85,7 +85,7 @@ int main(int argc, char *argv[]) {
 }
 ```
 After compiling and running it i got this:</br>
-![seed](./images/lucky3.png)
+![seed](./images/lucky3.png) </br>
 Now we have the seed everything is ready to get our flag. I made a small python script to send the seed to the remote server which is:
 ```python
 from pwn import *
